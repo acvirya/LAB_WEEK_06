@@ -66,6 +66,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Leo",
+                    "Loves to nap in the sun",
+                    "https://cdn2.thecatapi.com/images/1bq.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Expert at finding snacks",
+                    "https://cdn2.thecatapi.com/images/b1u.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Milo",
+                    "A bit of a grump, but sweet",
+                    "https://cdn2.thecatapi.com/images/9u4.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Chloe",
+                    "Always wants to play",
+                    "https://cdn2.thecatapi.com/images/aax.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Simba",
+                    "Thinks he's a lion",
+                    "https://cdn2.thecatapi.com/images/d55.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Bella",
+                    "Elegant and poised",
+                    "https://cdn2.thecatapi.com/images/d99.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Shadow",
+                    "Master of hiding",
+                    "https://cdn2.thecatapi.com/images/ebv.jpg"
                 )
             )
         )
